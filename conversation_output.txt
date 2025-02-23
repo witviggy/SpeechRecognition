@@ -1,0 +1,342 @@
+Start: 0.151, End: 1.092, Speaker: SPEAKER_01
+Text:  Hello, everyone!
+
+Start: 2.553, End: 6.877, Speaker: SPEAKER_01
+Text: In this English episode, we will be focusing on English conversation.
+
+Start: 8.258, End: 13.642, Speaker: SPEAKER_01
+Text: Listening to English conversation is an essential part of improving your English language skills.
+
+Start: 15.744, End: 20.228, Speaker: SPEAKER_01
+Text: It can help you improve your listening, speaking, and comprehension skills.
+
+Start: 21.869, End: 24.832, Speaker: SPEAKER_01
+Text: In this video, if I ask you a question,
+
+Start: 26.447, End: 28.268, Speaker: SPEAKER_01
+Text:  Do you like village or city life?
+
+Start: 29.529, End: 33.311, Speaker: SPEAKER_01
+Text: You can comment what you like, and now we will be talking about this.
+
+Start: 35.092, End: 35.693, Speaker: SPEAKER_01
+Text: Let's start.
+
+Start: 37.654, End: 39.275, Speaker: SPEAKER_00
+Text: Hi, how are you doing today?
+
+Start: 40.976, End: 42.417, Speaker: SPEAKER_02
+Text: I'm doing well, thank you.
+
+Start: 43.417, End: 44.118, Speaker: SPEAKER_02
+Text: How about you?
+
+Start: 45.819, End: 46.419, Speaker: SPEAKER_00
+Text: I'm good too.
+
+Start: 47.82, End: 52.483, Speaker: SPEAKER_00
+Text: So, I was thinking about the differences between village life and city life.
+
+Start: 53.223, End: 54.124, Speaker: SPEAKER_00
+Text: What do you think about it?
+
+Start: 56.557, End: 58.638, Speaker: SPEAKER_02
+Text:  Oh, that's an interesting topic.
+
+Start: 59.538, End: 64.62, Speaker: SPEAKER_02
+Text: I personally prefer village life because it's more peaceful and closer to nature.
+
+Start: 66.92, End: 67.581, Speaker: SPEAKER_02
+Text: What about you?
+
+Start: 69.641, End: 75.183, Speaker: SPEAKER_00
+Text: Well, I have lived in both village and city and I think both have their pros and cons.
+
+Start: 77.004, End: 77.944, Speaker: SPEAKER_02
+Text: Take a pause here.
+
+Start: 79.024, End: 81.965, Speaker: SPEAKER_02
+Text: Did notice the words here, pros and cons.
+
+Start: 82.986, End: 83.686, Speaker: SPEAKER_02
+Text: What does it mean?
+
+Start: 85.65, End: 89.512, Speaker: SPEAKER_02
+Text:  It's mean, advantages and disadvantages.
+
+Start: 91.392, End: 93.273, Speaker: SPEAKER_02
+Text: Now let's continue the conversation.
+
+Start: 95.274, End: 101.957, Speaker: SPEAKER_00
+Text: For example, in the village, people are more friendly and helpful, but the facilities are not as advanced as in the city.
+
+Start: 103.777, End: 105.218, Speaker: SPEAKER_02
+Text: Yeah, I agree with you.
+
+Start: 106.178, End: 111.36, Speaker: SPEAKER_02
+Text: In the city, there are more opportunities for education, employment and entertainment.
+
+Start: 112.721, End: 114.962, Speaker: SPEAKER_02
+Text: But it's also more crowded and polluted.
+
+Start: 117.517, End: 118.158, Speaker: SPEAKER_00
+Text:  Absolutely.
+
+Start: 118.838, End: 121.521, Speaker: SPEAKER_00
+Text: I think it depends on the individual's priorities and lifestyle.
+
+Start: 123.162, End: 129.088, Speaker: SPEAKER_00
+Text: For example, if someone wants to have a quiet and simple life, the village is a better option.
+
+Start: 129.689, End: 134.934, Speaker: SPEAKER_00
+Text: But if someone wants to have a fast-paced and dynamic life, the city is a better option.
+
+Start: 137.776, End: 138.697, Speaker: SPEAKER_02
+Text: That's a good point.
+
+Start: 140.008, End: 147.653, Speaker: SPEAKER_02
+Text:  Also, in the village, people have closer relationships with their neighbors, and they tend to support each other in times of need.
+
+Start: 149.034, End: 153.557, Speaker: SPEAKER_02
+Text: But in the city, people are more independent, and they rely on themselves more.
+
+Start: 156.839, End: 157.82, Speaker: SPEAKER_00
+Text: Yes, that's true.
+
+Start: 158.48, End: 165.445, Speaker: SPEAKER_00
+Text: But on the other hand, in the city, there is more diversity and exposure to different cultures, which can broaden one's perspective.
+
+Start: 166.786, End: 167.487, Speaker: SPEAKER_02
+Text: I agree with you.
+
+Start: 168.853, End: 174.097, Speaker: SPEAKER_02
+Text:  So, overall, I think both village and city life have their own merits and demerits.
+
+Start: 175.078, End: 177.84, Speaker: SPEAKER_02
+Text: It's up to the person to decide what suits them best.
+
+Start: 180.883, End: 181.503, Speaker: SPEAKER_00
+Text: Exactly.
+
+Start: 182.224, End: 184.746, Speaker: SPEAKER_00
+Text: It's all about personal preferences and priorities.
+
+Start: 186.147, End: 189.07, Speaker: SPEAKER_00
+Text: But it's always good to have a balance between the two if possible.
+
+Start: 190.351, End: 191.752, Speaker: SPEAKER_02
+Text: Yes, that's a good idea.
+
+Start: 192.632, End: 196.756, Speaker: SPEAKER_02
+Text: It's always good to experience both ways of life and appreciate the differences.
+
+Start: 202.453, End: 204.154, Speaker: SPEAKER_00
+Text:  Hey Anna, how are you doing?
+
+Start: 205.475, End: 205.895, Speaker: SPEAKER_02
+Text: I'm good.
+
+Start: 206.515, End: 207.416, Speaker: SPEAKER_02
+Text: Thanks for asking.
+
+Start: 208.416, End: 209.117, Speaker: SPEAKER_02
+Text: How about you?
+
+Start: 210.878, End: 211.698, Speaker: SPEAKER_00
+Text: I'm doing well too.
+
+Start: 213.179, End: 215.76, Speaker: SPEAKER_00
+Text: Hey, I was thinking of getting a pet for my house.
+
+Start: 217.741, End: 218.482, Speaker: SPEAKER_00
+Text: What do you think?
+
+Start: 221.063, End: 224.385, Speaker: SPEAKER_02
+Text: Honestly, I'm not a big fan of keeping pets inside the house.
+
+Start: 226.586, End: 226.906, Speaker: SPEAKER_00
+Text: Really?
+
+Start: 227.287, End: 227.667, Speaker: SPEAKER_00
+Text: Why not?
+
+Start: 229.773, End: 233.635, Speaker: SPEAKER_02
+Text:  Well, I think pets can be a lot of work and responsibility.
+
+Start: 235.575, End: 240.117, Speaker: SPEAKER_02
+Text: Plus, they can also cause allergies or other health issues for some people.
+
+Start: 242.018, End: 243.518, Speaker: SPEAKER_00
+Text: I understand your concerns.
+
+Start: 244.959, End: 247.74, Speaker: SPEAKER_00
+Text: But I think having a pet can be really rewarding too.
+
+Start: 249.921, End: 252.282, Speaker: SPEAKER_00
+Text: They can be great companions and help reduce stress.
+
+Start: 254.819, End: 259.661, Speaker: SPEAKER_02
+Text:  I can see that, but I also worry about the mess and potential damage they can cause.
+
+Start: 262.482, End: 268.283, Speaker: SPEAKER_00
+Text: That's a valid concern, but I think with proper training and care, pets can be well behaved and not cause too much trouble.
+
+Start: 271.845, End: 274.085, Speaker: SPEAKER_02
+Text: Yeah, I suppose that's true.
+
+Start: 275.146, End: 277.146, Speaker: SPEAKER_02
+Text: What kind of pet were you thinking of getting?
+
+Start: 280.187, End: 281.508, Speaker: SPEAKER_00
+Text: I was thinking of getting a dog.
+
+Start: 282.767, End: 284.928, Speaker: SPEAKER_00
+Text:  I love how loyal and affectionate they can be.
+
+Start: 287.97, End: 293.894, Speaker: SPEAKER_02
+Text: Dogs are definitely cute and friendly, but they also require a lot of attention and exercise.
+
+Start: 296.655, End: 299.157, Speaker: SPEAKER_02
+Text: Do you have the time and energy to take care of one?
+
+Start: 300.698, End: 305.3, Speaker: SPEAKER_00
+Text: I do have a pretty flexible schedule, so I think I can make it work.
+
+Start: 307.182, End: 311.084, Speaker: SPEAKER_00
+Text: Plus, I think it'll be good motivation for me to get more active too.
+
+Start: 313.912, End: 314.812, Speaker: SPEAKER_02
+Text:  That's a good point.
+
+Start: 316.093, End: 318.553, Speaker: SPEAKER_02
+Text: Well, I guess it's ultimately up to you.
+
+Start: 320.614, End: 325.255, Speaker: SPEAKER_02
+Text: Just make sure you do your research and consider all the factors before making a decision.
+
+Start: 327.215, End: 328.295, Speaker: SPEAKER_00
+Text: Thanks for your input, Anna.
+
+Start: 328.516, End: 330.276, Speaker: SPEAKER_00
+Text: I appreciate your honesty and concern.
+
+Start: 332.697, End: 334.057, Speaker: SPEAKER_02
+Text: Of course, anytime.
+
+Start: 335.217, End: 338.838, Speaker: SPEAKER_02
+Text: Let me know if you need any more advice or tips on pet care.
+
+Start: 344.068, End: 345.93, Speaker: SPEAKER_02
+Text:  Hey Patrick, how are you doing?
+
+Start: 348.672, End: 350.494, Speaker: SPEAKER_00
+Text: Hey Anna, not so good actually.
+
+Start: 352.556, End: 353.637, Speaker: SPEAKER_02
+Text: Oh no, what happened?
+
+Start: 355.298, End: 356.239, Speaker: SPEAKER_02
+Text: You look really down.
+
+Start: 358.021, End: 359.863, Speaker: SPEAKER_02
+Text: Did you have a fight with your girlfriend again?
+
+Start: 362.305, End: 364.207, Speaker: SPEAKER_00
+Text: Well, me and my girlfriend broke up last night.
+
+Start: 366.709, End: 368.33, Speaker: SPEAKER_02
+Text: Oh no, I'm sorry to hear that.
+
+Start: 369.331, End: 369.872, Speaker: SPEAKER_02
+Text: What happened?
+
+Start: 372.272, End: 373.532, Speaker: SPEAKER_00
+Text:  She was cheating on me, Anna.
+
+Start: 374.433, End: 375.133, Speaker: SPEAKER_00
+Text: I can't believe it.
+
+Start: 376.173, End: 377.854, Speaker: SPEAKER_02
+Text: Oh, Patrick, that's terrible.
+
+Start: 379.654, End: 381.915, Speaker: SPEAKER_02
+Text: I can't imagine how you must be feeling right now.
+
+Start: 383.996, End: 384.996, Speaker: SPEAKER_00
+Text: I don't even know what to do.
+
+Start: 386.256, End: 387.317, Speaker: SPEAKER_00
+Text: I thought she was the one.
+
+Start: 389.477, End: 392.618, Speaker: SPEAKER_02
+Text: I know it's tough, but you'll get through this.
+
+Start: 394.579, End: 398.34, Speaker: SPEAKER_02
+Text: You deserve someone who treats you right and doesn't cheat on you.
+
+Start: 400.734, End: 402.376, Speaker: SPEAKER_00
+Text:  I just feel so lost right now.
+
+Start: 404.397, End: 407.881, Speaker: SPEAKER_00
+Text: She admitted to cheating and I couldn't wrap my head around it.
+
+Start: 409.862, End: 416.349, Speaker: SPEAKER_02
+Text: I know it's hard, but try to take some time for yourself and do things that make you happy.
+
+Start: 418.41, End: 421.954, Speaker: SPEAKER_02
+Text: Focus on your hobbies and spend time with friends and family.
+
+Start: 423.615, End: 424.136, Speaker: SPEAKER_00
+Text: Thanks, Anna.
+
+Start: 424.476, End: 425.457, Speaker: SPEAKER_00
+Text: I appreciate your support.
+
+Start: 427.183, End: 429.064, Speaker: SPEAKER_02
+Text:  Of course, I'm always here for you.
+
+Start: 430.045, End: 432.847, Speaker: SPEAKER_02
+Text: And remember, time heals all wounds.
+
+Start: 434.007, End: 437.209, Speaker: SPEAKER_02
+Text: You'll find someone who loves and respects you for who you are.
+
+Start: 441.312, End: 445.074, Speaker: SPEAKER_02
+Text: Let's learn all the new vocabulary that we saw in our conversation.
+
+Start: 445.915, End: 449.157, Speaker: SPEAKER_02
+Text: It is essential to know words to speak English fluently.
+
+Start: 451.511, End: 454.492, Speaker: SPEAKER_02
+Text:  There are many ways to improve English speaking skills.
+
+Start: 455.133, End: 458.294, Speaker: SPEAKER_02
+Text: So maybe you talk to yourself in English as you go about your day.
+
+Start: 459.495, End: 463.136, Speaker: SPEAKER_02
+Text: Or maybe you look for opportunities to chat in English with people you meet.
+
+Start: 465.938, End: 471.48, Speaker: SPEAKER_02
+Text: But however you do it, the most powerful way to improve your English speaking skills is to use them.
+
+Start: 472.521, End: 477.343, Speaker: SPEAKER_02
+Text: Listening to a recording of your own voice can feel strange, especially talking in English.
+
+Start: 479.233, End: 484.336, Speaker: SPEAKER_02
+Text:  But once you get used to it, recording yourself speaking can be a powerful tool for improvement.
+
+Start: 485.297, End: 487.298, Speaker: SPEAKER_02
+Text: The big thing it helps is confidence.
+
+Start: 488.479, End: 493.963, Speaker: SPEAKER_02
+Text: I bet you, the first thing you notice when you listen back is that you speak English better than you thought.
+
+Start: 496.365, End: 500.267, Speaker: SPEAKER_02
+Text: Another thing is pronunciation, or just feeling the words in your mouth.
+
+Start: 501.708, End: 506.972, Speaker: SPEAKER_02
+Text: Speaking a foreign language is a physical workout for your mouth, and you want to get in the gym.
+
+Start: 509.399, End: 513.488, Speaker: SPEAKER_02
+Text:  If you found the video helpful, please hit the like button, and subscribe to my channel.
+
