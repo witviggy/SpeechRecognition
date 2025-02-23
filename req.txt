@@ -1,0 +1,5 @@
+whisperx
+yt_dlp
+torch
+openai
+aiohttp
